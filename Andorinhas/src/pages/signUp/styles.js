@@ -61,7 +61,7 @@ const SignInLink = styled.TouchableHighlight`
 `;
 
 const SignInLinkText = styled.Text`
-  color: #999;
+  color: #800A01;
   fontWeight: bold;
   fontSize: 16px;
   textAlign: center;

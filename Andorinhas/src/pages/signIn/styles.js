@@ -53,7 +53,7 @@ const SignUpLink = styled.TouchableHighlight`
 `;
 
 const SignUpLinkText = styled.Text`
-  color: #999;
+  color: #800A01;
   fontWeight: bold;
   fontSize: 16px;
   textAlign: center;
